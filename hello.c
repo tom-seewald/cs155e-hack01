@@ -9,5 +9,7 @@
 
 int main(void) {
 	printf("Tom Seewald\n");
+	printf("Jay Haver\n");
+	printf("Electrical Engineering\n")
 	return 0;
 }
